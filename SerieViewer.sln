@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieViewer", "SerieViewer\SerieViewer.csproj", "{74003190-B1EB-4AA1-A385-3808D8EC5C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74003190-B1EB-4AA1-A385-3808D8EC5C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74003190-B1EB-4AA1-A385-3808D8EC5C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74003190-B1EB-4AA1-A385-3808D8EC5C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74003190-B1EB-4AA1-A385-3808D8EC5C83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 77bbefea-fad8-441a-9bc4-fcb781905a2f
+	EndGlobalSection
+EndGlobal
